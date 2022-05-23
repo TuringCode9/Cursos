@@ -1,0 +1,29 @@
+Carácteristicas del lenguaje de programación Python
+    .Creado por Guido Van Rossum(Holandes) a comienzos de los 90.
+        .Guido Van Rossum crea Python comunicar de manera fluida al sistema operativo
+        Amoeba con la interfaz de usuario Bourne Shell.
+        .El nombre del lenguaje de programación viene por el gusto de Guido Van Rossum
+        por el grupo comico Monty Python.
+
+    .Lenguaje de alto nivel.Gramática sencilla,clara y muy legible.
+        .Python prescinde de los ; al final de cada sentencia.
+    .Tipado dinamico
+        .Se estable el tipo en tiempo de ejecución.
+    .Tipado estatico
+        .Si tenemos que declarar el tipo de variable antes de declarar una variable.
+    .Orientado a objetos:
+        .Sobrecarga de constructores.Herencia múltiple.Encapsulación.Interfaces.Polimorfismo.
+    .Open Source.
+    .Fácil de aprender.
+        .El lenguaje de programación Python se usa para iniciar a los nobatos en el mundo de la 
+        programación.
+    .Biblioteca estandar muy amplia.
+    .Interpretado.
+    .Versatil:
+        .Aplicaciones de escritorio,aplicaciones de servidor,aplicaciones web.
+    
+
+
+
+
+

@@ -1,0 +1,16 @@
+¿Qué es el prompt?
+    .Carácter o conjunto de carácteres que se muestra en la línea de comandos para indicar que
+    esta a la espera de recibir ordenes.
+    .En bourne shell y sus derivados como bash,el prompt contiene el carácter dolar($) para los 
+    usuarios sin privilegios y # para el administrador.
+
+.Punto y coma(;):Para introducir varias instrucciones en una sola linea.
+
+
+
+
+
+
+
+
+

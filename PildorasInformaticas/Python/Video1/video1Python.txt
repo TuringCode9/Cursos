@@ -1,0 +1,20 @@
+Temario
+    .Introducción.Requisitos previos.Instalación del software.
+    .Fundamentos y sintaxis básica del lenguaje de programación.
+    .POO con Python.
+    .Algoritmos listas y tramos.
+    .BBDD.
+    .Trabajo con graficos y contenidos.
+    .Procesos y tareas.
+    .Programación de red.
+    .Ejercicios prácticos.
+
+
+
+
+
+
+
+
+
+
