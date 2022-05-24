@@ -4,7 +4,7 @@ Las tuplas
    .Las tuplas son listas inmutables,no se pueden modificar su valor después de su creación.
       .No permiten añadir,eliminar y mover elementos(no append,extend,remove).
       .Si permiten extraer porciones,el resultado de la extracción es una nueva tupla.
-      .Si permiten comprobar si un elemento se encuentra en la tupla.d
+      .Si permiten comprobar si un elemento se encuentra en la tupla.
     
     ¿Qué utilidad o ventaja tiene respecto a la lista?
       .Más rapidas.
