@@ -17,8 +17,8 @@ def evaluacion(nota):
         valoracion = "Desaprobado"
     return valoracion
     
-print(evaluacion(3))
-print(evaluacion(7))
+print(evaluacion(nota))
+
 
 
 
